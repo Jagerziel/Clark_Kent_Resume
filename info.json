@@ -1,0 +1,20 @@
+{
+  "name": "Clark Kent",
+  "website": "https://notsuperman.com",
+  "linkedin": "https://www.linkedin.com/in/clarkkent/",
+  "github": "supermanrules",
+  "email": "clark.kent@generalassemb.ly",
+  "resume": "https://nytimes.com",
+  "proficientTechnologies": [
+      "Laser Beam Eyes",
+      "Strength",
+      "Flight",
+      "Bulletproof",
+      "Unbreakable Glasses",
+      "Ability to Turn Back Time",
+      "Supersonic Speed"
+  ],
+  "otherSkills": [
+      "Newspaper Reporting"
+  ]
+}
